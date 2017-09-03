@@ -1,24 +1,17 @@
+Posting forum is a basic app for posting messages only. The user has the capability to post messages and the other users can put up comments. The main message is posted at the top and then the comments are tagged below. The show page is composed of the userid, 
+title and comment. There are other pages as well which are the create, edit and delete part. Aside from that, the messages are also
+dated so everyone would know the date the message was created. Below are the snapshots of the app. 
+* This app was also name as wreck app. The original concept is that the user can post concerns and others can join the discussion.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+This is the what you would see upon opening the app: 
+![alt-text](postlandingpage.png)
 
-
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
-
-Happy coding!
-The Cloud9 IDE team
+This is the index page that would show the general messages:
+![alt-text](commentpage.jpg)
 
 
-## Support & Documentation
+Page for joining the discussion
+![alt-text](chat.jpg)
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Creating the message
+![alt-text](message.jpg)
